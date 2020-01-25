@@ -1,24 +1,32 @@
-# README
+# Rails 6 with Tailwincss
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Tested using Windows 10
 
-Things you may want to cover:
+## Pre-requisites
 
-* Ruby version
+_All dependencies and their versions are at the time of this writing (Jan. 26, 2020)._
 
-* System dependencies
+* [Ruby](https://rubyinstaller.org/downloads/) of course!
+	- Using [Ruby+Devkit 2.6.5-1 (x64)](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.5-1/rubyinstaller-devkit-2.6.5-1-x64.exe)
+* Rails 6.0.2.1
+* [Node.js 12.14.1](https://nodejs.org/en/download/)
+* [Yarn 1.21.1](https://legacy.yarnpkg.com/lang/en/docs/install/#windows-stable)
+* [SQlite3](https://www.sqlite.org/download.html) Precompiled Binaries for Windows
+	- Either download sqlite-dll-win32-x86-3310000.zip or sqlite-dll-win64-x64-3310000.zip
+	- Extract the contents and place the .dll files on `C:\Windows\System32`
 
-* Configuration
+## Installation
 
-* Database creation
+1. Clone the repo on your projects folder.
 
-* Database initialization
+```git
+git clone https://github.com/lnfel/rails-tailwind.git
+```
 
-* How to run the test suite
+2. cd into the cloned repo.
 
-* Services (job queues, cache servers, search engines, etc.)
+```console
+cd rails-tailwind
+```
 
-* Deployment instructions
-
-* ...
+3. 
