@@ -19,7 +19,7 @@ _All dependencies and their versions at the time of this writing (Jan. 26, 2020)
 
 1. Clone the repo on your projects folder.
 
-```git
+```console
 git clone https://github.com/lnfel/rails-tailwind.git
 ```
 
