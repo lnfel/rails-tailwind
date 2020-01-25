@@ -1,0 +1,10 @@
+/* Load tailwindcss */
+/* Note: root/postcss.config.js lists tailwind as a plugin */
+/*
+	https://youtu.be/L2nyKwrEY8w?t=155
+	https://tailwindcss.com/course/setting-up-tailwind-and-postcss/
+	https://medium.com/@davidteren/rails-6-and-tailwindcss-getting-started-42ba59e45393
+ */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
