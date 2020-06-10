@@ -1,4 +1,4 @@
-# Rails 6 with Tailwincss
+# Rails 6 with Tailwindcss
 
 Tested using Windows 10
 
